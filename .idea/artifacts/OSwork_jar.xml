@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OSwork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OSwork_jar</output-path>
+    <root id="archive" name="OSwork.jar">
+      <element id="module-output" name="OSwork" />
+    </root>
+  </artifact>
+</component>
